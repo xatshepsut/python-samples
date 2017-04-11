@@ -1,0 +1,2 @@
+SQLAlchemy==1.0.12
+pyttsx==1.1
